@@ -1,6 +1,6 @@
 **Eco-Friendly Account Management 📚🌳**
 
-This is the desktopn version of the **Ecogardien** project that enables clients to easily create and manage their accounts, while also providing tools to help them make more sustainable choices. Key features include:
+This is the desktop version of the **Ecogardien** project that enables clients to easily create and manage their accounts, while also providing tools to help them make more sustainable choices. Key features include:
 
 **Account Creation and Management 💻** :  Intuitive sign-up and login process, ability to update personal information and preferences, secure storage of account details.
 
